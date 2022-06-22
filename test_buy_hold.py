@@ -1,17 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-All new scripts will have that garbage line above it. 
-Ignore it or pretend it is computer black magic
 
-Created on Wed Nov 12 00:26:22 2019
+Created on Wed June 21 00:26:22 2019
 
-Generally you should write descriptions of what the code does here at the top.
-These are comments for the humans, not code for the computer. Comment blocks
-of text using triple " Comment lines of text with #
 
 Introduction to package bt.py for backtesting
 
-@author: MichaelRolleigh
+@author: Dhiraj Thareja
 """
 
 
