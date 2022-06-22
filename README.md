@@ -7,4 +7,20 @@ We also took this course on Datacamp https://app.datacamp.com/learn/courses/fina
 
 I am sharing my own work and any other subscripts I used to create my own works.
 
+We downloaed Anaconda from here: https://www.anaconda.com/products/distribution
+
+How to install one a Mac: https://www.youtube.com/watch?v=2JeoNlCcLOM
+
+How to install on Windows 10: https://www.youtube.com/watch?v=a7Ylbn1ikF0
+
+Which we then installed & used Spyder from there. Its like a Jupyter Notebook but different.
+
+We used this package called BT for everything
+
+https://pmorissette.github.io/bt/index.html
+
+You may need to install it using "pip install bt" in a console window
+
+
+
 
