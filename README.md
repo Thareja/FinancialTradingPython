@@ -21,6 +21,18 @@ https://pmorissette.github.io/bt/index.html
 
 You may need to install it using "pip install bt" in a console window
 
+Quick guides:
+
+Trading Basics:
+https://github.com/Thareja/FinancialTradingPython/blob/main/Trading%20Basics.ipynb
+
+Trading Strategies:
+https://github.com/Thareja/FinancialTradingPython/blob/main/Strategies.ipynb
+
+
+Technical Indicators:
+https://github.com/Thareja/FinancialTradingPython/blob/main/Technical%20Indicators.ipynb
+
 
 
 
